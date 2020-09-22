@@ -1,3 +1,5 @@
+*** 项目已经迁移至 https://github.com/wafersystems/react-contacts ***
+
 # react-contacts
 contacts  &amp; department select
 
